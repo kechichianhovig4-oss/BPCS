@@ -486,7 +486,7 @@ function HomePage() {
                     </div>
                     <p className="text-gray-700 mb-4">"We've used Bayou Pristine Cleaning since November and have always been pleased."</p>
                     <p className="font-semibold text-gray-900">Patricia MacMullen</p>
-                    <p className="text-sm text-gray-500">March 2025</p>
+                    <p className="text-sm text-gray-500">August 2026</p>
                   </div>
                   <div className="bg-white p-6 rounded-xl shadow-lg">
                     <div className="flex items-center gap-1 text-amber-500 mb-3">
@@ -498,7 +498,7 @@ function HomePage() {
                     </div>
                     <p className="text-gray-700 mb-4">"They work good and fast."</p>
                     <p className="font-semibold text-gray-900">Gianna Walkins</p>
-                    <p className="text-sm text-gray-500">January 2025</p>
+                    <p className="text-sm text-gray-500">September 2026</p>
                   </div>
                   <div className="bg-white p-6 rounded-xl shadow-lg">
                     <div className="flex items-center gap-1 text-amber-500 mb-3">
@@ -510,7 +510,7 @@ function HomePage() {
                     </div>
                     <p className="text-gray-700 mb-4">"We are so thankful for this cleaning company. We rented our beautiful home for one year..."</p>
                     <p className="font-semibold text-gray-900">Martha Colon</p>
-                    <p className="text-sm text-gray-500">January 2025</p>
+                    <p className="text-sm text-gray-500">July 2026</p>
                   </div>
                 </div>
               </div>
